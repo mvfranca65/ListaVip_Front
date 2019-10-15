@@ -6,8 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./cadastro-convidados.component.css']
 })
 export class CadastroConvidadosComponent implements OnInit {
+  
 
   constructor() { }
+
+  
 
   ngOnInit() {
   }
